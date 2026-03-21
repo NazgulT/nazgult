@@ -1,7 +1,7 @@
 ## About me
 
-- 🔭 I’m currently working on a Multi-Agent RAG System
-- 🌱 I’m currently learning Agentic AI with LangGraph, CrewAI, BeeAI and AutoGen
+- 🔭 I’m currently working on Small Language Model Benchmarking and Evaluation 
+- 🌱 I’m currently learning Agentic AI with LangGraph, CrewAI and AutoGen
 - 👯 I’m looking to collaborate on Retrieval-Augmented Generation (RAG), Multimodal AI and Multi-Agent Systems
 - 💬 Visit my [portfolio](https://nazgult.github.io/)
 - 📫 How to reach me: nazgul.tazhigaliyeva@gmail.com
